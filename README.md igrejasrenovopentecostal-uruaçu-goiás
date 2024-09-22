@@ -1,0 +1,55 @@
+Site da Igreja Evangélica [Igrejas Renovo Pentecostal - Uruaçu - Goiás]
+Bem-vindo ao repositório do site da Igreja Evangélica [Nome da Igreja]. Este projeto tem como objetivo criar um site moderno e funcional para nossa comunidade.
+
+Índice
+Visão Geral
+Funcionalidades
+Tecnologias Utilizadas
+Instalação
+Como Contribuir Pix 62999825285
+Contato
+Visão Geral
+Este projeto visa fornecer uma plataforma online para a Igreja Evangélica [Nome da Igreja], onde membros e visitantes podem encontrar informações sobre nossos cultos, eventos, ministérios e muito mais.
+
+Funcionalidades
+Página inicial com informações sobre a igreja
+Calendário de eventos
+Seção de sermões e estudos bíblicos
+Página de contato
+Blog para notícias e atualizações
+Tecnologias Utilizadas
+Frontend: HTML, CSS, JavaScript, [Framework de Frontend, se aplicável]
+Backend: [Linguagem/Framework de Backend, se aplicável]
+Banco de Dados: [Tipo de Banco de Dados, se aplicável]
+Hospedagem: [Serviço de Hospedagem, se aplicável]
+Instalação
+Para rodar este projeto localmente, siga os passos abaixo:
+
+Clone o repositório:
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+Navegue até o diretório do projeto:
+cd nome-do-repositorio
+
+Instale as dependências:
+npm install
+
+Inicie o servidor:
+npm start
+
+Como Contribuir
+Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
+
+Faça um fork do projeto
+Crie uma nova branch:
+git checkout -b minha-nova-feature
+
+Faça suas alterações e commit:
+git commit -m 'Adiciona nova feature'
+
+Envie para o repositório remoto:
+git push origin minha-nova-feature
+
+Abra um Pull Request
+Contato
+Para mais informações, entre em contato conosco pelo e-mail: [pr.celsofranc@gmail.com]
